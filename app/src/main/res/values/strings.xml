@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Location Tracker</string>
+    <string name="title_activity_maps">My Location Details</string>
+    <string name="title_activity_maps2">My Location Details</string>
+</resources>
